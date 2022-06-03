@@ -4,7 +4,7 @@ Solocl app, an app for local shops
 
 ## Main Features
 
-1.Listing Data from the backend(firebase)
+1.Listing Data from the backend(firebase)\n
 2.Download Feature
 3.Social media share
 
@@ -14,7 +14,7 @@ I have used firebase as the backend service. the data is listed using a listview
 
 ## Download Feature
 
-The app have a download feature. inorder to download a specific feed i will convert that entire widget into image and will save it to the gallery. i have used screenshot package to convert the widget into image and i will convert the image into bytes and will save it into the gallery.to save into gallery i have usedmimage_gallery_saver package.
+The app have a download feature. inorder to download a specific feed i will convert that entire widget into image and will save it to the gallery. i have used screenshot package to convert the widget into image and i will convert the image into bytes and will save it into the gallery.to save into gallery i have used image_gallery_saver package.
 
 ## Social Share
 
