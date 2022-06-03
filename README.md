@@ -4,7 +4,7 @@ Solocl app, an app for local shops
 
 ## Main Features
 
-1.Listing Data from the backend(firebase)\n
+1.Listing Data from the backend(firebase)
 2.Download Feature
 3.Social media share
 
