@@ -1,16 +1,25 @@
 # solocl_app_anto
 
-A new Flutter project.
+Solocl app, an app for local shops
 
-## Getting Started
+## Main Features
 
-This project is a starting point for a Flutter application.
+1.Listing Data from the backend(firebase)
+2.Download Feature
+3.Social media share
 
-A few resources to get you started if this is your first Flutter project:
+## Listing Data
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I have used firebase as the backend service. the data is listed using a listview. to implement the infinte scroll feature i have used flutterfire_ui package.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download Feature
+
+The app have a download feature. inorder to download a specific feed i will convert that entire widget into image and will save it to the gallery. i have used screenshot package to convert the widget into image and i will convert the image into bytes and will save it into the gallery.to save into gallery i have usedmimage_gallery_saver package.
+
+## Social Share
+
+The app have a social share feature. using this feature i can share a news in all social media. i have used share_plus package to share feed in social media.
+
+## UI
+
+Inorder to beautify the UI i have used google fonts package.
