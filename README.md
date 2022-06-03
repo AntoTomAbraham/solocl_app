@@ -23,3 +23,7 @@ The app have a social share feature. using this feature i can share a news in al
 ## UI
 
 Inorder to beautify the UI i have used google fonts package.
+
+## Few ways to improve the app
+
+1.Implementing shimmer effect: using this effect we can show a loading effect during the time data gets loaded from the Database.
